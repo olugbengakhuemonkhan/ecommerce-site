@@ -1,0 +1,27 @@
+body{
+
+    background: url('http://1.bp.blogspot.com/-X87KxLlpToY/TvXLUX2lBsI/AAAAAAAAD68/iyaoh0e0s1I/s1600/christmas-new-year-2012-greetings-04.jpeg') no-repeat center;
+    background-size: cover;
+    color: green;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    margin: 40px 0px 0px;
+}
+h2{
+    font-size: 60px;
+    margin: 80px 0px 0px;
+    color: gold;
+
+}
+
+.time-unit, .time-unit span{
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid green;
+}
